@@ -1,8 +1,7 @@
 - 👋 Hi, I am @vijitmalik
-- 👀 I’m interested in software development. I have interest in both frontend and backend development.
--    I have good knowledge of : Languages- Python, Javascript, Sql, css, html
-                                Library and Frameworks- Django, React.js, Bootstrap
-- 🌱 I’m currently learning databases
+- 👀 I’ve got 2+ years of experience and expertise in Frontend development. 
+-    My Skills : Languages- Javascript, SQL, CSS, HTML, Python
+                 Library and Frameworks- React Js, Redux toolkit, DOM, React router, TailwindCSS, Bootstrap, MaterialUI
 - 📫 Reach me at: vijit.malik.1998@gmail.com 
 
 <!---
